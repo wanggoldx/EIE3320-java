@@ -1,0 +1,14 @@
+# Build outputs
+*.class
+
+# BlueJ
+*.ctxt
+*.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# General
+*.log
